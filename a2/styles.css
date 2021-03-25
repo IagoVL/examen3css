@@ -1,0 +1,26 @@
+.4_4 { 
+	overflow:hidden;
+}.e4_4 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:595px;
+	height:842px;
+	position:absolute;
+}.e4_5 { 
+	background-color:rgba(196.00000351667404, 196.00000351667404, 196.00000351667404, 0);
+	width:566px;
+	height:792px;
+	position:absolute;
+	left:14px;
+	top:22px;
+}.4_5 { 
+	border:5px solid rgba(77.88975566625595, 153.00000607967377, 65.66250577569008, 1);
+}.e4_28 { 
+	width:44px;
+	height:55px;
+	position:absolute;
+	left:518px;
+	top:744px;
+	background-image:url(images/radiaction1_2.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
