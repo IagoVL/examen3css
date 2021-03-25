@@ -1,48 +1,25 @@
-.4_12 { 
-	overflow:hidden;
-}.e4_12 { 
-	background-color:rgba(255, 255, 255, 1);
-	width:420px;
-	height:595px;
-	position:absolute;
-}.e4_13 { 
-	background-color:rgba(196.00000351667404, 196.00000351667404, 196.00000351667404, 0);
-	width:380px;
-	height:562px;
-	position:absolute;
-	left:19px;
-	top:18px;
-}.4_13 { 
-	border:10px solid rgba(77.88975566625595, 153.00000607967377, 65.66250577569008, 1);
-}.e4_14 { 
-	width:234px;
-	height:296px;
-	position:absolute;
-	left:92px;
-	top:233px;
-	background-image:url(images/radiaction2_2.png);
-	background-repeat:no-repeat;
-	background-size:cover;
-}.e4_15 { 
-	color:rgba(77.88975566625595, 153.00000607967377, 65.66250577569008, 1);
-	width:166px;
-	height:84px;
-	position:absolute;
-	left:48px;
-	top:39px;
-	font-family:Roboto;
-	text-align:left;
-	font-size:72px;
-	letter-spacing:0;
-}.e4_16 { 
-	color:rgba(77.88975566625595, 153.00000607967377, 65.66250577569008, 1);
-	width:323px;
-	height:105px;
-	position:absolute;
-	left:48px;
-	top:106px;
-	font-family:Roboto;
-	text-align:left;
-	font-size:90px;
-	letter-spacing:0;
-}
+body{
+	background-color: grey;
+}
+
+#contenedor {
+
+	width: 1000px; 
+	margin: 0 auto; 
+	
+	}
+	.boton_personalizado{
+		text-decoration: none;
+		padding: 10px;
+		font-weight: 600;
+  		font-size: 20px;
+		color: #ffffff;
+		color: #ffffff;
+		background-color: #1883ba;
+		border-radius: 6px;
+		border: 2px solid #0016b0;
+	  }
+	  .boton_personalizado:hover{
+		color: #1883ba;
+ 
+	  }

@@ -1,46 +1,25 @@
-.4_23 { 
-	overflow:hidden;
-}.e4_23 { 
-	background-color:rgba(255, 255, 255, 1);
-	width:792px;
-	height:1224px;
-	position:absolute;
-}.e4_24 { 
-	background-color:rgba(196.00000351667404, 196.00000351667404, 196.00000351667404, 0);
-	width:792px;
-	height:1224px;
-	position:absolute;
-	left:0px;
-	top:0px;
-}.4_24 { 
-	border:20px solid rgba(77.88975566625595, 153.00000607967377, 65.66250577569008, 1);
-}.e4_25 { 
-	width:384px;
-	height:487px;
-	position:absolute;
-	left:15px;
-	top:190px;
-	background-image:url(images/radiaction2_2.png);
-	background-repeat:no-repeat;
-	background-size:cover;
-}.e4_26 { 
-	color:rgba(77.88975566625595, 153.00000607967377, 65.66250577569008, 1);
-	width:539px;
-	height:383px;
-	position:absolute;
-	left:129px;
-	top:841px;
-	font-family:Roboto;
-	text-align:left;
-	font-size:120px;
-	letter-spacing:0;
-}.e4_27 { 
-	width:371px;
-	height:458px;
-	position:absolute;
-	left:409px;
-	top:195px;
-	background-image:url(images/radiaction1_2.png);
-	background-repeat:no-repeat;
-	background-size:cover;
-}
+body{
+	background-color: grey;
+}
+
+#contenedor {
+
+	width: 625px; 
+	margin: 0 auto; 
+	
+	}
+	.boton_personalizado{
+		text-decoration: none;
+		padding: 10px;
+		font-weight: 600;
+  		font-size: 20px;
+		color: #ffffff;
+		color: #ffffff;
+		background-color: #1883ba;
+		border-radius: 6px;
+		border: 2px solid #0016b0;
+	  }
+	  .boton_personalizado:hover{
+		color: #1883ba;
+ 
+	  }
