@@ -1,0 +1,48 @@
+.1_2 { 
+	overflow:hidden;
+}.e1_2 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:595px;
+	height:842px;
+	position:absolute;
+}.e3_2 { 
+	background-color:rgba(196.00000351667404, 196.00000351667404, 196.00000351667404, 0);
+	width:566px;
+	height:792px;
+	position:absolute;
+	left:14px;
+	top:22px;
+}.3_2 { 
+	border:10px solid rgba(77.88975566625595, 153.00000607967377, 65.66250577569008, 1);
+}.e3_4 { 
+	width:327px;
+	height:417px;
+	position:absolute;
+	left:134px;
+	top:212px;
+	background-image:url(images/radiaction2_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}.e4_2 { 
+	color:rgba(77.88975566625595, 153.00000607967377, 65.66250577569008, 1);
+	width:207px;
+	height:105px;
+	position:absolute;
+	left:186px;
+	top:94px;
+	font-family:Roboto;
+	text-align:left;
+	font-size:90px;
+	letter-spacing:0;
+}.e4_3 { 
+	color:rgba(77.88975566625595, 153.00000607967377, 65.66250577569008, 1);
+	width:323px;
+	height:105px;
+	position:absolute;
+	left:128px;
+	top:675px;
+	font-family:Roboto;
+	text-align:left;
+	font-size:90px;
+	letter-spacing:0;
+}
